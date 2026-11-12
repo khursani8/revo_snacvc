@@ -1,3 +1,5 @@
+> **Unique:** Phased SNAC codec fine-tuning lab on Arabic speech: full-model fine-tune, then a 48kHz decoder phase and a dual-head 24kHz+48kHz decoder (Phase 12), using cached codes and curriculum segment lengths.
+
 # SNAC Fine-tuning 🍿
 
 Multi-**S**cale **N**ural **A**udio **C**odec (SNAC) fine-tuned on Levantine Arabic speech datasets.
